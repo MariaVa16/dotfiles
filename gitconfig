@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mariav16@gmail.com
+	name = Maria Vaisbord
